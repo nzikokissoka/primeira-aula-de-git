@@ -10,3 +10,20 @@ h1{
     margin: 5px;
     padding: 10px;
 }
+
+a{
+    margin: 5px;
+    padding: 20px;
+    background: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover{
+    background: white;
+    color: blue;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid black;
+}
