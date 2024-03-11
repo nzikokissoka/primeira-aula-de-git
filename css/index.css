@@ -11,6 +11,12 @@ h1{
     padding: 10px;
 }
 
+h2{
+    color: brown;
+    font-size: 14px;
+    margin: 20px 20px;
+}
+
 a{
     margin: 5px;
     padding: 20px;
